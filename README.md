@@ -3,7 +3,7 @@ tdp_covid19 [![Phovea][phovea-image]][phovea-url] [![CircleCI](https://circleci.
 
 DB Connector and API for COVID-19 data.
 
-Contains one view for the data of South Korea: https://www.kaggle.com/kimjihoo/coronavirusdataset#PatientInfo.csv
+Contains one view for the patient data of South Korea: https://www.kaggle.com/kimjihoo/coronavirusdataset#PatientInfo.csv
 
 Installation
 ------------
