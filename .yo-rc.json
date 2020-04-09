@@ -1,0 +1,27 @@
+{
+  "generator-phovea": {
+    "type": "slib",
+    "modules": [
+      "tdp_core"
+    ],
+    "libraries": [],
+    "sextensions": [
+      {
+        "type": "tdp-sql-database-definition",
+        "id": "covid19db",
+        "module": "covid19db",
+        "extras": {
+          "configKey": "tdp_covid19"
+        }
+      }
+    ],
+    "unknown": {
+      "requirements": [],
+      "dockerPackages": []
+    },
+    "name": "tdp_covid19",
+    "author": "Caleydo",
+    "today": "Fri, 28 Jun 2019 08:22:24 GMT",
+    "githubAccount": "caleydo"
+  }
+}

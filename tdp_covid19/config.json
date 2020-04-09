@@ -1,0 +1,13 @@
+{
+  "dburl": "postgresql://covid19_user:covid19_pw@publicdb:5000/covid19",
+  "statement_timeout": null,
+  "logging": {
+    "version": 1,
+    "disable_existing_loggers": false,
+    "loggers": {
+      "tdp_covid19": {
+        "level": "DEBUG"
+      }
+    }
+  }
+}
