@@ -22,5 +22,17 @@ columns = [
     ['confirmed_date', 'categorical'],
     ['released_date', 'categorical'],
     ['deceased_date', 'categorical'],
-    ['state', 'categorical']
+    ['state', 'categorical'],
+    ['province_code', 'number'],
+    ['latitude', 'number'],
+    ['longitude', 'number'],
+    ['elementary_school_count', 'number'],
+    ['kindergarten_count', 'number'],
+    ['university_count', 'number'],
+    ['academy_ratio', 'number'],
+    ['elderly_population_ratio', 'number'],
+    ['elderly_alone_ratio', 'number'],
+    ['nursing_home_count', 'number'],
+    ['province_population', 'number'],
+    ['province_area_km2', 'number']
 ]
