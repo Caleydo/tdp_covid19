@@ -17,6 +17,7 @@ columns = [
     ['infection_case', 'categorical'],
     ['infection_order', 'number'],
     ['infected_by', 'number'],
+    ['infected', 'number'],
     ['contact_number', 'number'],
     ['symptom_onset_date', 'categorical'],
     ['confirmed_date', 'categorical'],
