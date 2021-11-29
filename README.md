@@ -1,9 +1,12 @@
-tdp_covid19 [![Phovea][phovea-image]][phovea-url] [![CircleCI](https://circleci.com/gh/Caleydo/tdp_covid19.svg?style=svg&circle-token=da185b5f9446f6582726a71cf41b379f0199258f)](https://circleci.com/gh/Caleydo/tdp_covid19) [![Dependency Status][daviddm-image]][daviddm-url]
+DEPRECATED: tdp_covid19 [![Phovea][phovea-image]][phovea-url] [![CircleCI](https://circleci.com/gh/Caleydo/tdp_covid19.svg?style=svg&circle-token=da185b5f9446f6582726a71cf41b379f0199258f)](https://circleci.com/gh/Caleydo/tdp_covid19) [![Dependency Status][daviddm-image]][daviddm-url]
 =====================
 
 DB Connector and API for COVID-19 data.
 
 Contains one view for the patient data of South Korea: https://www.kaggle.com/kimjihoo/coronavirusdataset#PatientInfo.csv
+
+### DEPRECATION Information
+Please note that this project has been archived and is no longer being maintained. There is an active development under https://github.com/datavisyn/tdp_core and we will also contribute our future changes to it.
 
 Installation
 ------------

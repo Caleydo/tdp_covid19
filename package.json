@@ -19,9 +19,9 @@
     "dist": "python setup.py bdist_egg && cd build && tar cvzf ../dist/tdp_covid19.tar.gz *"
   },
   "name": "tdp_covid19",
-  "description": "DB Connector and API for COVID-19 data.",
+  "description": "DEPRECATED: DB Connector and API for COVID-19 data.",
   "homepage": "https://phovea.caleydo.org",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "2.0.0",
   "author": {
     "name": "Caleydo",
     "email": "klaus.eckelt@jku.at",
